@@ -1,4 +1,3 @@
-# Hotel-Power-BI-Dashboard
 This project analyzes hotel booking data to uncover trends in customer behavior, room preferences, revenue generation, and hotel performance. It uses structured datasets covering dates, hotels, rooms, aggregated bookings, and individual booking details.
 
 Key Objectives:
